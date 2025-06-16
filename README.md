@@ -11,3 +11,7 @@ Here is the Sign Up page for the Fintech App BRIDGE
 
 
 ![Capture](https://github.com/user-attachments/assets/b9e6fbe0-179b-4d96-ade4-0df23ea6ec31)
+
+
+Here is the verification of identity
+![image](https://github.com/user-attachments/assets/f98e5b0c-5fcb-4760-ab21-512c24bd3a74)
