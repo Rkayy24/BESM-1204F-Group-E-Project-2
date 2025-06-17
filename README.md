@@ -14,10 +14,36 @@ Here is the Sign Up page for the Fintech App BRIDGE
 
 
 Here is the verification of identity
+
+
+
 ![image](https://github.com/user-attachments/assets/f98e5b0c-5fcb-4760-ab21-512c24bd3a74)
+
 
 
 Here is the Fillate page
 
 
+
 ![image](https://github.com/user-attachments/assets/c0d4ca2c-46f5-42f7-9c5a-59a320f236c0)
+
+
+Here is the setting of our FinTech App
+
+
+
+![bbbb](https://github.com/user-attachments/assets/273819a0-e548-4abc-9c5d-6d855aed2b98)
+
+
+
+This is the Transction interface
+
+
+
+![llll](https://github.com/user-attachments/assets/e448a52d-0f0b-4c30-9ab7-fda4c413e67c)
+
+
+
+
+
+
