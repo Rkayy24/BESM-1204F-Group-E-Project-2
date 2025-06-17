@@ -44,6 +44,13 @@ This is the Transction interface
 
 
 
+Here is the statistics of our app
+
+
+
+![GITH UB 3](https://github.com/user-attachments/assets/60da52cb-e91f-499c-a5fb-778bceedc704)
+
+
 
 
 
